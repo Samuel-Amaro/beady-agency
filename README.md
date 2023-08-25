@@ -19,8 +19,8 @@ Landing Page Beady Agency é uma página(Landing Page) construída para demostr
 
 ### Links
 
- - [Repositório Projeto]()
- - [Resultado]()
+ - [Repositório Projeto](https://github.com/Samuel-Amaro/beady-agency)
+ - [Resultado](https://beady-agency.vercel.app/)
 
 ### Construído com
 
