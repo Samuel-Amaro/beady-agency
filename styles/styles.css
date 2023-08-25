@@ -1465,3 +1465,11 @@ body {
     justify-content: center;
   }
 }
+
+@media screen and (min-width: 2100px) {
+
+  .section-projects__buttons,
+  .section-testimonials__buttons {
+    display: none;
+  }
+}
