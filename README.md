@@ -6,12 +6,12 @@ Landing Page Beady Agency é uma página(Landing Page) construída para demostr
 
 ### Conceitos / Práticas aplicadas
 
- - O respeito às características do layout (dimensões, fontes, posicionamentos de objetos, espaçamentos, tamanhos de fontes, etc,);
-- Efeitos, animações e transições de entrada e de interação nos objetos;
-- Validação de formulário de cadastro de newsletter;
-- Responsividade;
-- Otimização de imagens;
-- Performance;
+ - O respeito às características do layout (dimensões, fontes, posicionamentos de objetos, espaçamentos, tamanhos de fontes, etc,)
+- Efeitos, animações e transições de entrada e de interação nos objetos
+- Validação de formulário de cadastro de newsletter
+- Responsividade
+- Otimização de imagens
+- Performance
 
 ### Capturas de Tela
 
